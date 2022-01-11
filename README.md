@@ -1,6 +1,6 @@
 # "ВІД ЦИПСЕРАЯ ДО МІСТА РАХІВ"
 
-<p align="center"><img width="128" height="128" src="assets/img/logo.png" /></p>
+<p align="center"><img height="128" src="images/logo.png" /></p>
 
 ## EN
 
