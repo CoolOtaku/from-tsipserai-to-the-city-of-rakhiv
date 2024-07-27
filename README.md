@@ -6,13 +6,13 @@
 
 This is a course project that I was ordered.
 
-The project visualizes the work of the site (landing) with publications for the tourist for the city of Rakhiv. No API usage, just the frontend for now.
+The project visualizes the work of the site (landing) with publications for the tourist for the city of **Rakhiv**. No **API** usage, just the frontend for now.
 
 <b>UA:</b>
 
 Це курсовий проект який в мене заказали.
 
-Проект візуалізує роботу сайту (лендінг) з публікаціями для туриста для міста Рахів. Без використання API покине лише інтерфейс.
+Проект візуалізує роботу сайту (лендінг) з публікаціями для туриста для міста **Рахів**. Без використання **API** покине лише інтерфейс.
 
 #
 ## Screenshots
@@ -30,14 +30,15 @@ The project visualizes the work of the site (landing) with publications for the 
 #
 ## Technologies used
 <b>EN:</b>
-- Using Bootstrap (front-end framework)
-- Using a third-party template for site layout (built on Bootstrap)
+- Using **Bootstrap** (front-end framework)
+- Using a third-party template for site layout (built on **Bootstrap**)
 - Navigation on the site
 
 <b>UA:</b>
-- Використання Bootstrap (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі Bootstrap)
+- Використання **Bootstrap** (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
 - Навігація по сайту
+
 #
 ## License
 ```
