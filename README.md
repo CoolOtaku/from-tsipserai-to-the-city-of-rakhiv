@@ -1,5 +1,5 @@
-<p align="center"><img height="128" src="images/logo.png" /></p>
-<h1 align="center">"ВІД ЦИПСЕРАЯ ДО МІСТА РАХІВ"</h1>
+<p align="center"><img height="128" src="images/logo.png"/></p>
+<h1 align="center">ВІД ЦИПСЕРАЯ ДО МІСТА РАХІВ</h1>
 
 ## Description
 <b>EN:</b>
@@ -20,8 +20,6 @@ The project visualizes the work of the site (landing) with publications for the 
   <img src="screens/s1.png" height="20%"/>
   <img src="screens/s2.png" height="20%"/>
   <img src="screens/s3.png" height="20%"/>
-</p>
-<p>
   <img src="screens/sm1.png" height="20%"/>
   <img src="screens/sm2.png" height="20%"/>
   <img src="screens/sm3.png" height="20%"/>
@@ -30,13 +28,15 @@ The project visualizes the work of the site (landing) with publications for the 
 #
 ## Technologies used
 <b>EN:</b>
-- Using **Bootstrap** (front-end framework)
-- Using a third-party template for site layout (built on **Bootstrap**)
+- Using [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Using a third-party template for site layout (built on [**Bootstrap**](https://getbootstrap.com))
+- Using the library [**jQuery**](https://jquery.com)
 - Navigation on the site
 
 <b>UA:</b>
-- Використання **Bootstrap** (front-end framework)
-- Використання стороннього шаблону для макета сайту (на основі **Bootstrap**)
+- Використання [**Bootstrap**](https://getbootstrap.com) (front-end framework)
+- Використання стороннього шаблону для макета сайту (на основі [**Bootstrap**](https://getbootstrap.com))
+- Використання бібліотеки [**jQuery**](https://jquery.com)
 - Навігація по сайту
 
 #
